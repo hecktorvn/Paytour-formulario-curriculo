@@ -12,7 +12,7 @@ O Projeto é um formulário de envio de currículo solicitado pela Paytour para 
 <br>
 
 <p align="center">
-  <img src="public/screenshots/formulario.png" alt="Página inicial">
+  <img src="public/screenshot/formulario.png" alt="Página inicial">
 </p>
 
 # :computer: Tecnologias
