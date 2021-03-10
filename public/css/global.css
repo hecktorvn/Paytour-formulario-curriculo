@@ -1,0 +1,9 @@
+.logo svg path {
+    fill: black;
+}
+
+.logo svg {
+    width: 15rem;
+    height: 4.6rem;
+    margin-bottom: 1rem;
+}
